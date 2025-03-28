@@ -32,14 +32,14 @@ const mockSchools = {
     schedules: {
       regular: {
         periods: [
-          { name: "A", startTime: "07:15", endTime: "08:05" },
-          { name: "1", startTime: "08:15", endTime: "09:17" },
-          { name: "2", startTime: "09:23", endTime: "10:17" },
-          { name: "3", startTime: "10:23", endTime: "11:17" },
-          { name: "4", startTime: "11:23", endTime: "12:16" },
-          { name: "5", startTime: "12:22", endTime: "13:16" },
-          { name: "6", startTime: "13:22", endTime: "14:15" },
-          { name: "8", startTime: "14:21", endTime: "15:15" },
+          { name: "A Period", startTime: "07:15", endTime: "08:05" },
+          { name: "1st Period", startTime: "08:15", endTime: "09:17" },
+          { name: "2nd Period", startTime: "09:23", endTime: "10:17" },
+          { name: "3th Period (Lunch)", startTime: "10:23", endTime: "11:17" },
+          { name: "4th Period", startTime: "11:23", endTime: "12:16" },
+          { name: "5th Period (Lunch)", startTime: "12:22", endTime: "13:16" },
+          { name: "6th Period", startTime: "13:22", endTime: "14:15" },
+          { name: "8th Period", startTime: "14:21", endTime: "15:15" },
         ],
       },
       friday: {
