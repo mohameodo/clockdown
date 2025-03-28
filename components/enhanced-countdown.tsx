@@ -137,7 +137,7 @@ export function EnhancedCountdown({
 
   if (!isActive) {
     return (
-      <Card className={`${className} border-0 glass-effect`}>
+      <Card className={`${className} border-0 `}>
         <CardContent className="flex flex-col items-center justify-center p-3 sm:p-4">
           <div className="flex items-center mb-2">
             <Bell className={`mr-2 h-5 w-5 text-primary ${bellRinging ? "bell-ring" : ""}`} />
@@ -158,7 +158,7 @@ export function EnhancedCountdown({
   const formattedTimeRemaining = `${timeLeft.hours > 0 ? timeLeft.hours + "h " : ""}${timeLeft.minutes}m ${timeLeft.seconds}s`
 
   return (
-    <Card className={`${className} border-0 glass-effect overflow-hidden`}>
+    <Card className={`${className} border-0  overflow-hidden`}>
       <CardContent className="countdown-container">
         <div className="flex items-center justify-between mb-3 w-full">
           <div className="flex items-center">
