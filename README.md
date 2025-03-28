@@ -1,6 +1,5 @@
 # Clockdown - School Bell Countdown App
 
-![Clockdown Logo](public/icon.png)
 
 ## Overview
 
