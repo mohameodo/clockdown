@@ -7,7 +7,6 @@ export default function Home() {
     <>
       <CountdownPage />
       <OnboardingModal />
-      <WelcomePopup />
     </>
   )
 }
