@@ -1,8 +1,5 @@
 # Clockdown - School Bell Countdown App
 
-
-## Overview
-
 Clockdown is a modern web application designed to help students and teachers keep track of school bell schedules with real-time countdowns. The app provides an intuitive interface for monitoring class periods, upcoming events, and school schedules.
 
 ## Features
@@ -57,7 +54,7 @@ Clockdown can be installed as a Progressive Web App on your device:
 
 The app can be easily deployed on Vercel:
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fnexiloop%2Fclockdown)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/mohameodo/clockdown)
 
 ## Contributing
 
@@ -73,7 +70,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## SEO Tags
+
 
 <!-- These tags help prevent blocking on school computers -->
 <meta name="keywords" content="education, school, bell schedule, countdown, timer, student tool, teacher tool, classroom management, time management, school bell, period tracker, class schedule">
