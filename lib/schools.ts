@@ -40,7 +40,6 @@ const mockSchools = {
           { name: "5", startTime: "12:22", endTime: "13:16" },
           { name: "6", startTime: "13:22", endTime: "14:15" },
           { name: "8", startTime: "14:21", endTime: "15:15" },
-          { name: "*9", startTime: "15:21", endTime: "16:15" },
         ],
       },
       friday: {
@@ -51,6 +50,11 @@ const mockSchools = {
           { name: "Lunch Period", startTime: "11:45", endTime: "12:29" },
           { name: "8th Period", startTime: "12:39", endTime: "14:19" },
           { name: "7th Period", startTime: "14:29", endTime: "15:15" },
+        ],
+      },
+Saturday: {
+        periods: [
+          { name: "No school", startTime: "08:15", endTime: "09:55" },
         ],
       },
       wednesday: {
