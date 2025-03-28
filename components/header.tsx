@@ -66,7 +66,7 @@ export function Header() {
   return (
     <>
       {/* Mobile Top Header */}
-      <header className="sm:hidden sticky top-0 z-50 bg-background border-b">
+      <header className="sm:hidden sticky top-0 z-50 bg-background">
         <div className="flex h-12 items-center justify-between px-2">
           <div className="flex items-center space-x-1">
             <Sheet>
