@@ -1,0 +1,32 @@
+[
+  {
+    "id": "red-mountain-high",
+    "name": "Red Mountain High School",
+    "description": "A public high school known for its comprehensive academic programs and extracurricular activities."
+  },
+  {
+    "id": "dobson-high",
+    "name": "Dobson High School",
+    "description": "A high school offering strong academic and athletic programs."
+  },
+  {
+    "id": "mesa-high",
+    "name": "Mesa High School",
+    "description": "The oldest high school in Mesa, known for its traditions and academic excellence."
+  },
+  {
+    "id": "mountain-view-high",
+    "name": "Mountain View High School",
+    "description": "A top-rated high school with rigorous academic and extracurricular programs."
+  },
+  {
+    "id": "skyline-high",
+    "name": "Skyline High School",
+    "description": "A school focused on innovation and student success."
+  },
+  {
+    "id": "westwood-high",
+    "name": "Westwood High School",
+    "description": "A diverse and inclusive high school offering International Baccalaureate programs."
+  }
+]

@@ -1,0 +1,22 @@
+{
+  "id": "elementary-1",
+  "name": "Sunshine Elementary",
+  "description": "An elementary school serving grades K-5 with a focus on creative learning.",
+  "scheduleType": "regular",
+  "schedules": {
+    "regular": {
+      "periods": [
+        { "name": "Morning Assembly", "startTime": "08:00", "endTime": "08:15" },
+        { "name": "Class 1", "startTime": "08:20", "endTime": "09:10" },
+        { "name": "Class 2", "startTime": "09:15", "endTime": "10:05" },
+        { "name": "Recess", "startTime": "10:05", "endTime": "10:25" },
+        { "name": "Class 3", "startTime": "10:30", "endTime": "11:20" },
+        { "name": "Lunch", "startTime": "11:20", "endTime": "12:00" },
+        { "name": "Class 4", "startTime": "12:05", "endTime": "12:55" },
+        { "name": "Class 5", "startTime": "13:00", "endTime": "13:50" },
+        { "name": "Dismissal", "startTime": "14:00", "endTime": "14:00" }
+      ]
+    }
+  }
+}
+

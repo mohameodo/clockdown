@@ -1,0 +1,19 @@
+{
+  "id": "middle-school-1",
+  "name": "Westside Middle School",
+  "description": "A middle school serving grades 6-8 with a focus on STEM education.",
+  "scheduleType": "block",
+  "schedules": {
+    "regular": {
+      "periods": [
+        { "name": "Homeroom", "startTime": "08:00", "endTime": "08:15" },
+        { "name": "Block A", "startTime": "08:20", "endTime": "09:50" },
+        { "name": "Block B", "startTime": "09:55", "endTime": "11:25" },
+        { "name": "Lunch", "startTime": "11:30", "endTime": "12:00" },
+        { "name": "Block C", "startTime": "12:05", "endTime": "13:35" },
+        { "name": "Block D", "startTime": "13:40", "endTime": "15:10" }
+      ]
+    }
+  }
+}
+
