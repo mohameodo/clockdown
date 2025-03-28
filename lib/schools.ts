@@ -52,7 +52,7 @@ const mockSchools = {
           { name: "7th Period", startTime: "14:29", endTime: "15:15" },
         ],
       },
-Saturday: {
+      saturday: {
         periods: [
           { name: "No school", startTime: "08:15", endTime: "09:55" },
         ],
