@@ -29,6 +29,7 @@ export function Header() {
     { name: "Calendar", href: "/calendar", icon: Calendar },
     { name: "About", href: "/about", icon: Info },
     { name: "Help", href: "/help", icon: HelpCircle },
+    { name: "settings", href: "/settings", icon: Settings },
   ]
 
   useEffect(() => {
