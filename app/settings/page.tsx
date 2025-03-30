@@ -43,9 +43,8 @@ export default function SettingsPage() {
         // In a real app, this would be an API call
         // For now, we'll simulate loading the schools.json file
         const mockSchools = [
-          { id: "high-school-1", name: "Central High School" },
-          { id: "middle-school-1", name: "Westside Middle School" },
-          { id: "elementary-1", name: "Sunshine Elementary" },
+        {     "id": "red-mountain-high",
+    "name": "Red Mountain High School},
           { id: "custom", name: "Custom School" },
         ]
         setSchools(mockSchools)
