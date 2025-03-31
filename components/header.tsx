@@ -88,6 +88,7 @@ export function Header() {
                         pathname === item.href ? "bg-primary/10 text-primary" : "text-foreground"
                       }`}
                     >
+                      <item.icon className="h-5 w-5" />
                       <span>{item.name}</span>
                     </Link>
                   ))}
@@ -134,7 +135,6 @@ export function Header() {
                   className={`nav-tab px-2.5 py-1.5 text-sm ${pathname === item.href ? "nav-tab-active" : ""}`}
                 >
                   <div className="flex items-center space-x-1">
-                    <item.icon className="h-3.5 w-3.5" />
                     <span className="hidden sm:inline-block">{item.name}</span>
                   </div>
                 </Link>
