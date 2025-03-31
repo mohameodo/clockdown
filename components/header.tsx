@@ -88,7 +88,6 @@ export function Header() {
                         pathname === item.href ? "bg-primary/10 text-primary" : "text-foreground"
                       }`}
                     >
-                      <item.icon className="h-5 w-5" />
                       <span>{item.name}</span>
                     </Link>
                   ))}
