@@ -108,8 +108,12 @@ export function Header() {
                 <span>{streakCount}</span>
               </div>
             )}
-            <ModeToggle />
-          </div>
+           {user?.notificationSettings?.enabled && (
+              <Button variant="ghost" size="sm" className="h-8 w-8 p-0 relative">
+                <Bell className="h-3.5 w-3.5" />
+                {hasNotifications && <span className="notification-badge"></span>}
+              </Button>
+            )}          </div>
         </div>
       </header>
 
