@@ -42,11 +42,11 @@ export default function SettingsPage() {
       try {
         // In a real app, this would be an API call
         // For now, we'll simulate loading the schools.json file
-        const mockSchools = [
-        {     "id": "red-mountain-high",
-    "name": "Red Mountain High School},
-          { id: "custom", name: "Custom School" },
-        ]
+const mockSchools = [
+  { id: "red-mountain-high", name: "Red Mountain High School" },
+  { id: "custom", name: "Custom School" }
+];
+
         setSchools(mockSchools)
 
         // Set form data from user context
