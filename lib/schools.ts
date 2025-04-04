@@ -42,16 +42,6 @@ const mockSchools = {
           { name: "8th Period", startTime: "14:21", endTime: "15:15" },
         ],
       },
-      friday: {
-        periods: [
-          { name: "A Period", startTime: "07:15", endTime: "08:05" },
-          { name: "2nd Period", startTime: "08:15", endTime: "09:55" },
-          { name: "6th Period", startTime: "10:05", endTime: "11:45" },
-          { name: "Lunch Period", startTime: "11:45", endTime: "12:29" },
-          { name: "8th Period", startTime: "12:39", endTime: "14:19" },
-          { name: "7th Period", startTime: "14:29", endTime: "15:15" },
-        ],
-      },
       saturday: {
         periods: [
           { name: "No school", startTime: "08:15", endTime: "09:55" },
